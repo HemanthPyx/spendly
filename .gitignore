@@ -1,0 +1,42 @@
+# ─── Python / Django ───
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+db.sqlite3
+
+# ─── Environment & Secrets (CRITICAL!) ───
+.env
+.env.*
+*.env
+!.env.example
+
+# ─── Firebase credentials (NEVER push this!) ───
+*firebase-adminsdk*.json
+*service-account*.json
+firebase-credentials.json
+
+# ─── Media uploads ───
+media/
+
+# ─── Static files (generated) ───
+staticfiles/
+
+# ─── IDE / OS ───
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# ─── Node (frontend) ───
+node_modules/
+dist/
+
+# ─── Logs & temp ───
+*.log
+output.txt

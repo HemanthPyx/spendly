@@ -1,0 +1,207 @@
+[Heading 1] Expense Tracker Project – Modules
+[Heading 2] 1. User Management Module
+[normal] Basic account management.
+[normal] Features
+[normal] User Registration
+
+[normal] Login / Logout
+
+[normal] Profile settings
+
+[normal] Change password
+
+[normal] Currency selection
+
+[normal] Monthly budget preference
+
+[Heading 1] 2. Income / Budget Module
+[normal] This module manages the total money available.
+[normal] Features
+[normal] Add total amount / monthly income
+
+[normal] Edit income
+
+[normal] Set monthly budget
+
+[normal] Carry forward remaining balance to next month
+
+[normal] View current available balance
+
+[normal] Example
+[normal] Total Income = ₹20,000
+[normal] Expenses = ₹6,000
+[normal] Remaining = ₹14,000
+[Heading 1] 3. Expense Management Module
+[normal] This is the core module.
+[normal] Features
+[normal] Add expense
+
+[normal] Edit expense
+
+[normal] Delete expense
+
+[normal] Categorize expense
+
+[normal] Categories Example
+[normal] Food
+
+[normal] Travel
+
+[normal] Shopping
+
+[normal] Bills
+
+[normal] Entertainment
+
+[normal] Education
+
+[normal] Other
+
+[normal] Extra features
+[normal] Add notes
+
+[normal] Add receipt image
+
+[normal] Add expense date
+
+[normal] Recurring expenses (rent, subscription)
+
+[Heading 1] 4. Wishlist / Purchase Planning Module
+[normal] This tracks things you want to buy later.
+[normal] Features
+[normal] Add item to wishlist
+
+[normal] Price of item
+
+[normal] Priority (Small → Big purchase)
+
+[normal] Mark as purchased
+
+[normal] Auto move to completed list
+
+[normal] Show progress
+
+[normal] Example
+[normal] 1. Buy Headphones – ₹2000 – Pending
+[normal] 2. Buy Laptop – ₹65000 – Pending
+[normal] 3. Buy Shoes – ₹1500 – Completed ✔
+[Heading 1] 5. Expense Visualization Module
+[normal] This shows visual analytics.
+[normal] Charts
+[normal] Pie chart → Expense by category
+
+[normal] Bar chart → Monthly expenses
+
+[normal] Line chart → Expense trend
+
+[normal] Budget vs spending chart
+
+[normal] Insights
+[normal] Highest spending category
+
+[normal] Average daily spending
+
+[normal] Remaining budget visualization
+
+[normal] Libraries you can use:
+[normal] Chart.js
+
+[normal] Recharts
+
+[normal] D3.js
+
+[Heading 1] 6. Budget Alert Module
+[normal] Smart alerts for overspending.
+[normal] Features
+[normal] Notify when budget reaches 80%
+
+[normal] Warning when budget exceeded
+
+[normal] Suggest reducing spending
+
+[normal] Example
+[normal] ⚠ You have spent 85% of your budget this month
+[Heading 1] 7. Savings Tracking Module
+[normal] Shows how much money you saved.
+[normal] Features
+[normal] Monthly savings
+
+[normal] Yearly savings summary
+
+[normal] Savings goals
+
+[normal] Example
+[normal] Income: ₹20,000
+[normal] Spent: ₹15,000
+[normal] Saved: ₹5,000
+[Heading 1] 8. Reports Module
+[normal] Generate financial reports.
+[normal] Features
+[normal] Monthly report
+
+[normal] Weekly report
+
+[normal] Category report
+
+[normal] Export report (PDF / Excel)
+
+[Heading 1] 9. Search & Filter Module
+[normal] Quick access to expenses.
+[normal] Features
+[normal] Search by category
+
+[normal] Filter by date
+
+[normal] Filter by price range
+
+[normal] Sort by highest expense
+
+[Heading 1] 10. Dashboard Module
+[normal] Main page summary.
+[normal] Widgets
+[normal] Total income
+
+[normal] Total spent
+
+[normal] Remaining balance
+
+[normal] Top spending category
+
+[normal] Wishlist progress
+
+[normal] Monthly chart
+
+[Heading 1] 11. Recurring Payments Module (Advanced Feature)
+[normal] Track fixed expenses.
+[normal] Examples
+[normal] Rent
+
+[normal] Netflix
+
+[normal] EMI
+
+[normal] Electricity bill
+
+[normal] Auto adds every month.
+[Heading 1] 12. Smart Insights (Optional AI Feature)
+[normal] If you want to make the project more advanced.
+[normal] Features
+[normal] Spending pattern detection
+
+[normal] Suggestions like
+
+[normal] You spend 40% of money on food.
+[normal] Consider reducing restaurant expenses.
+[Heading 1] Bonus Features (Make project stand out)
+[normal] Add these if you want it to look like a professional product.
+[normal] Dark / Light mode
+
+[normal] Mobile responsive
+
+[normal] Expense receipt OCR scanning
+
+[normal] Multi currency support
+
+[normal] Voice expense input
+
+[normal] Weekly email reports
